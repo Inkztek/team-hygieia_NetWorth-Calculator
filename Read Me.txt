@@ -1,0 +1,4 @@
+test on your localhost with Xamp or Wamp
+create a database called "net_worth"
+import sql
+
